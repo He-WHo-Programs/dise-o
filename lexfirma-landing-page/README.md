@@ -2,10 +2,6 @@
 
 Lexfirma no tenia pagina publica de marketing. Esta tarea cubre el diseno e implementacion completa de una landing page B2B para despachos de abogados, alineada con el sistema de diseno existente del producto (`index.css` + tokens `--lf-*`).
 
-## Lo que se implemento
-
-## Como ejecutar
-
 Desde esta carpeta:
 
 ```bash
